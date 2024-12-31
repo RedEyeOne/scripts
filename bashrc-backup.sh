@@ -25,4 +25,4 @@ alias bottles="flatpak run com.usebottles.bottles >/dev/null 2>&1 &"
 alias fixmon="$HOME/.scripts/boot/force-right-monitor.sh"
 alias updateme="$HOME/.scripts/vitals/system-update.sh"
 alias runkali="sudo docker run --tty --interactive kalilinux/kali-rolling"
-
+alias heroicgames="flatpak run com.heroicgameslauncher.hgl"
